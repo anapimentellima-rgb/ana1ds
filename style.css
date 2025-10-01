@@ -8,3 +8,7 @@
     --titulo:"Oswald", sans-serif
     --texto:"Playfair Display", serif;
 }
+body{
+    background-color: var(--verde-azulado);
+    font-family: var(--texto);
+}
